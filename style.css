@@ -45,6 +45,7 @@ form{
 }
 input{
   margin: 20px;
+  padding: 5px;
   max-width: 400px;
   min-width: 400px;
   height: 20px;
