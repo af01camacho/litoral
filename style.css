@@ -5,7 +5,7 @@
   padding: 0;
 }
 body{
-  font-family: 'Poppins'
+  font-family: 'Poppins';
   background-color: #e4e4e4;
 }
 .div-form{
@@ -53,10 +53,10 @@ input{
   max-width: 380px;
   min-width: 380px;
   height: 20px;
-  box-shadow: 6px 9px 2px 6px black;
+  box-shadow: 1px;
   outline: none;
   background: none;
-  border: 1;
+  border: 0;
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
   font-size: 24px;
